@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate Backend Developer from Poland</h3>
 
-- 🌱 I’m currently learning **Java, Spring and Spring eco-system, I also occasionally learn node + typescript**
+- 🌱 I’m currently learning **Java, Spring and Spring eco-system, I also occasionally work with node + typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/7capa7?tab=repositories](https://github.com/7capa7?tab=repositories)
 
