@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **capandapatryk@gmail.com**
 
-- 📄 Know about my experiences [currently I am studying in a technical school, my professional experience is a two-month summer internship and a month's practice as part of school practice](currently I am studying in a technical school, my professional experience is a two-month summer internship and a month's practice as part of school practice)
+- 📄 Know about my experiences [currently I am studying in a technical school, my professional experience is a two-month summer internship and a month's practice as part of school practice]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
